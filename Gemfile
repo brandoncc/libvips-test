@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "ruby-vips", "~> 2.1"
+
+gem "down", "~> 5.2"
